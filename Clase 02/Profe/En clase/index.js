@@ -81,8 +81,8 @@
 
 
 // // - switch
-var dia = prompt('ingrese un dia de la semana, lunes,martes,miercoles,jueves,viernes,sabado,domingo')
-switch (dia) {
+var result = promt('ingrese un dia de la semana lunes,martes,miercoles,jueves,viernes,sabado,domingo')
+switch (result) {
     case 'lunes':
     case 'martes':
     case 'miercoles':
@@ -110,9 +110,9 @@ switch (dia) {
 // var result = promt('ingrese resultado, ganó, empató o perdió')
 // switch (result) {
 //     case 'ganó':
-//     case 'Ganó':
-//     case 'gano':
-//     case 'Gano':
+//     case :'Ganó':
+//     case :'gano':
+//     case :'Gano':
 //         console.log('sumaste tres puntos')
 //         break
 //     case 'empató':
