@@ -144,13 +144,13 @@
 // // 5. Sentencias
 // // - break
 // // - continue
-    ===
-    ===
-    =
-    // 1. Condicionales
-    // - ìf
+// ===
+// ===
+// =
+// // 1. Condicionales
+// // - ìf
 
-    console.log('Init app')
+// console.log('Init app')
 
 // Falsy values
 
@@ -294,6 +294,7 @@
 //     }
 //   }
 // }
->>>
->>>
-> 70223 bf5d19080af77cbf62a2a8f0daba3ed698a
+    >>>
+    >>>
+    >
+    70223 bf5d19080af77cbf62a2a8f0daba3ed698a

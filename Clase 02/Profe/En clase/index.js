@@ -3,7 +3,7 @@
 
 // console.log('init app')
 
-// //falsy values
+// //falsy values-------------------------
 
 // //boolean:false
 // //Number: 0,-0, NaN
@@ -23,7 +23,7 @@
 
 
 
-// // 2. Operadores de comparación
+// // 2. Operadores de comparación-------------------------------
 // // - ===
 // var result = promt('ingrese resultado')
 
@@ -65,11 +65,13 @@
 // // - >
 // // - >=
 // // - <=
-// // 3. Operadores lógicos
+
+
+// // 3. Operadores lógicos-------------------------------------------
 // // - &&
 // var value = promt('ingrese un numero')
 
-// if (value > && value < 10) {
+// if (value >1 && value < 10) {
 //     console.log(' el número esta entre 1 y 10 no inncluidos')
 // }
 
@@ -80,24 +82,24 @@
 // // - !
 
 
-// // - switch
-var result = promt('ingrese un dia de la semana lunes,martes,miercoles,jueves,viernes,sabado,domingo')
-switch (result) {
-    case 'lunes':
-    case 'martes':
-    case 'miercoles':
-    case 'jueves':
-    case 'viernes':
-        console.log('es un día habil')
-        break
-    case 'sabado':
-    case 'domingo':
-        console.log('es un fin de semana')
-        break
-    default:
-        console.log('no es un dia valido')
-        break
-}
+// // - switch------------------------------------------------------
+// var result = promt('ingrese un dia de la semana lunes,martes,miercoles,jueves,viernes,sabado,domingo')
+// switch (result) {
+//     case 'lunes':
+//     case 'martes':
+//     case 'miercoles':
+//     case 'jueves':
+//     case 'viernes':
+//         console.log('es un día habil')
+//         break
+//     case 'sabado':
+//     case 'domingo':
+//         console.log('es un fin de semana')
+//         break
+//     default:
+//         console.log('no es un dia valido')
+//         break
+// }
 
 // if('lunes'=== result)
 // console.log('es un día habil')

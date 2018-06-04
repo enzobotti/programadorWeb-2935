@@ -1,8 +1,8 @@
 // Ejercicio en clase 
 
-//var name = prompt("cual es tu nombre?");
+var name = prompt("cual es tu nombre?");
 
-//console.log('Hola ' + name)
+console.log('Hola ' + name)
 
 ////
 
